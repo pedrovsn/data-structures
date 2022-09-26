@@ -1,8 +1,13 @@
 ## Solutions
+- [21. Merge Two Sorted Lists](merge_two_sorted_lists_21.md)
 - [704. Binary Search](binary_search_704.md)
 - [278. First bad Version](first_bad_version_278.md)
+- [283. Move Zeroes](move_zeroes_283.md)
+- [344. Reverse String](reverse_string_344.md)
+- [557. Reverse Words In A String](reverse_words_string_557.md)
 - [733. Flood Fill](flood_fill_733.md)
 - [LFU Cache](lfu_cache.md)
+- [876. Middle LinkedList](middle_linkedlist_876.md)
 - [977. Squase Sorted Array](square_sorted_array_977.md) 
 - [Search Insert Position](search_insert_position.md)
 - [Two Sum II](two_sum_ii.md)
